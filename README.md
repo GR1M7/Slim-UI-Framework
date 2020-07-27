@@ -3,6 +3,11 @@ A WinForms C# UI Framework.
 
 This project is made under .NET Framework 4.7.2.
 
+Simple flat UI inspired by current gen software.
+
+This project will include various pieces of source code found on the internet, new implementations and modded source code.
+All links will be listed above.
+
 # Included controls:
 - [ ] Graph
 - [ ] MenuStrip
@@ -35,9 +40,3 @@ This project is made under .NET Framework 4.7.2.
 - [ ] Drag docking
 - [ ] Grab scroll
 - [ ] Transparency support
-
-# About:
-Simple flat UI inspired by current gen software.
-
-This project will include various pieces of source code found on the internet, new implementations and modded source code.
-All links will be listed above.
