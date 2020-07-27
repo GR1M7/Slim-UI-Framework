@@ -1,2 +1,39 @@
 # Slim-UI-Framework
 A WinForms C# UI Framework.
+
+# Included controls:
+- [ ] Graph
+- [ ] MenuStrip
+- [ ] TextBox
+- [ ] NumericBox
+- [ ] Image
+- [ ] Label
+- [ ] Button
+- [ ] DataGrid
+- [ ] TabControl
+- [ ] DateTimePicker
+- [ ] ScrollBar
+- [ ] Panel
+- [ ] PanelManager
+- [ ] ToolStrip
+- [ ] GridSizePicker
+- [ ] ProgressBar
+- [ ] TrackBar/Slider
+- [ ] Ribbon
+- [ ] Clock
+- [ ] ComboBox
+- [ ] Form
+- [ ] HTMLEditor
+- [ ] WindowBar
+- [ ] SeparatorLine
+
+# Features:
+- [ ] Accessible internal resources
+- [ ] Support for XML skins
+- [ ] Drag docking
+- [ ] Grab scroll
+
+Simple flat UI inspired by current gen software.
+
+This project will include various pieces of source code found on the internet, new implementations and modded source code.
+All credits will be listed above.
