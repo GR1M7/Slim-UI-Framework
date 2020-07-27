@@ -33,6 +33,7 @@ All links will be listed above.
 - [ ] HTMLEditor
 - [ ] WindowBar
 - [ ] SeparatorLine
+- [ ] WebBrowser
 
 # Features:
 - [ ] Accessible internal resources
