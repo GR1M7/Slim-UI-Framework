@@ -36,4 +36,4 @@ A WinForms C# UI Framework.
 Simple flat UI inspired by current gen software.
 
 This project will include various pieces of source code found on the internet, new implementations and modded source code.
-All credits will be listed above.
+All links will be listed above.
