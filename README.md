@@ -32,6 +32,7 @@ A WinForms C# UI Framework.
 - [ ] Support for XML skins
 - [ ] Drag docking
 - [ ] Grab scroll
+- [ ] Transparency support
 
 Simple flat UI inspired by current gen software.
 
