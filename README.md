@@ -36,6 +36,7 @@ This project is made under .NET Framework 4.7.2.
 - [ ] Grab scroll
 - [ ] Transparency support
 
+# About:
 Simple flat UI inspired by current gen software.
 
 This project will include various pieces of source code found on the internet, new implementations and modded source code.
