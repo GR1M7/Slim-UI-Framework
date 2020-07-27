@@ -1,6 +1,8 @@
 # Slim-UI-Framework
 A WinForms C# UI Framework.
 
+This project is made under .NET Framework 4.7.2.
+
 # Included controls:
 - [ ] Graph
 - [ ] MenuStrip
